@@ -1,2 +1,11 @@
-print('hola mundo')
-print('Prueba de git')
+from flask import Flask
+
+app=Flask(__name__)
+@app.route('/')
+
+def index():
+    return "hola mundo"
+    
+if __name__ == 'main':
+    app.run()
+
