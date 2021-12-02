@@ -1,8 +1,5 @@
-# Proyecto-Integrador-Sistemas-Expertos
-<<<<<<< HEAD
-
+# Proyecto-Integrador-Sistemas-Experto
 hola pruebas
-=======
 Hola mundos
 Hola tres
->>>>>>> b5eeb6616d9451fbc62d6a1414ba4b40f4828687
+
